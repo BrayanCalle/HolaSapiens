@@ -1,0 +1,7 @@
+.bg-portada{
+    background-image: url(/assets/img/fondos/portada.jpg)
+}
+
+#ultimo-li{
+    left: 0% !important;
+}
