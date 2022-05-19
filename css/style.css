@@ -276,7 +276,8 @@ header [class^="container-"] [class*=" col-"] {
 
 /* base color variable*/
 :root {
-  --base-color: #ff214f;
+  /* --base-color: #ff214f; */
+  --base-color: #4500A4;
 }
 
 /* ===================================
@@ -15146,22 +15147,25 @@ footer .instafeed-grid.gutter-extra-large {
   transition: background-color 700ms linear;
 }
 .color-1 {
-  background-color: #ff5851;
+  background-color: #4500A4;
 }
 .color-2 {
-  background-color: #e86618;
+  background-color: #F44244;
 }
 .color-3 {
   background-color: #ef3158;
 }
 .color-4 {
-  background-color: #6b0990;
+  background-color: #FFC600;
 }
 .color-5 {
-  background-color: #4c0990;
+  background-color: #9203F1;
 }
 .color-6 {
   background-color: #1b3194;
+}
+.color-7 {
+  background-color: #4500A4;
 }
 
 /* home - classic web agency */
@@ -15341,6 +15345,19 @@ footer .instafeed-grid.gutter-extra-large {
   height: 3.6875em;
   border-radius: 1.8438em;
   background: #659036;
+  border: 0.0625em solid #fff;
+  color: white;
+  -webkit-border-radius: 1.8438em;
+  -moz-border-radius: 1.8438em;
+  -ms-border-radius: 1.8438em;
+  -o-border-radius: 1.8438em;
+}
+
+.button-escribenos-holaSapiens {
+  width: 17em;
+  height: 3.6875em;
+  border-radius: 1.8438em;
+  background: transparent;
   border: 0.0625em solid #fff;
   color: white;
   -webkit-border-radius: 1.8438em;

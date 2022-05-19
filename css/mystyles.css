@@ -1,7 +1,20 @@
 .bg-portada{
-    background-image: url(../assets/img/fondos/portada-1.jpg)
+    background-image: url(../assets/img/fondos/option16-banner-bg.png)
 }
 
 #ultimo-li{
     left: 0% !important;
+}
+
+#azul-hover:hover {
+    background-color: #4500A4;
+}
+
+.color-servicios-text{
+    color: #01233F;
+}
+
+#servicios-home{
+    padding-bottom: 0px;
+    padding-top: 0px;
 }
