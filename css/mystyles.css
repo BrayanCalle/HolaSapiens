@@ -22,3 +22,19 @@
 .humano-triangulos{
     mix-blend-mode: soft-light;
 }
+
+.video{
+    display: block;
+    opacity: 0.5;
+    width: 100%;
+    height: 1011px;
+    top: -177px;
+    left: 0px;
+    position: absolute;
+    z-index:1;
+}
+
+.texto-inicio{
+    position: absolute;
+    z-index: 2;
+}
