@@ -15382,6 +15382,12 @@ footer .instafeed-grid.gutter-extra-large {
   .button-about-holaSapiens {
     margin-top: 2em;
   }
+
+  .col-xl-7n {
+    flex: 0 0 auto;
+    width: 75.333333%;
+  }
+
 }
 
 /* /Cambios BrayanC */
